@@ -1,4 +1,6 @@
 # Example data
+# BY SAMIR
+
 sales_data = [
     {"day": 1, "product_a": 202, "product_b": 142, "product_c": 164},
     {"day": 2, "product_a": 206, "product_b": 121, "product_c": 338},
